@@ -18,4 +18,4 @@ if you select yes, it will download using ffmpeg, so you must have that installe
 replace the string variable with HTML and it will auto parse the html to find the skillshare links and downloads as mp4
 packages:
 pip install bs4
-pip install lmxl
+pip install lxml
